@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  background-color: #9789c9;
+  overflow-y: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
